@@ -9,7 +9,7 @@ Sniper Vanity URL with selfboting
 - Check that you are in the right folder
 - Then run these commands :
 - (To install the modules needed for use)
-`npm i discord.js_selfbot_v13 npm i discord-webhook-node`
+`npm i discord.js-selfbot-v13 npm i discord-webhook-node`
 
 ## Usage
 
@@ -26,7 +26,7 @@ If you have errors I invite you to ask me for help on discord : 1067138195898236
 - Vérifiez que vous êtes bien dans le bon dossier
 - Puis exécutez ces commandes :
 - (Pour installez les modules nécessaire à l'usage)
-`npm i discord.js_selfbot_v13 npm i discord-webhook-node`
+`npm i discord.js-selfbot-v13 npm i discord-webhook-node`
 
 ## Utilisation
 
