@@ -1,3 +1,6 @@
+# NOT WORKING NOW WAIT FOR UPDATE
+
+
 # Vanity-Sniper
 Sniper Vanity URL with selfboting 
 
